@@ -10,7 +10,7 @@ const schema = Joi.object()
       .min(16)
   })
 const data = {
-  name: 'sanjay',
+  name: 'ranjith',
   age:16
 };
 
